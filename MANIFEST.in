@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+recursive-include anki_decks/templates *
+recursive-include anki_decks/static *
+recursive-include anki_decks/migrations *
